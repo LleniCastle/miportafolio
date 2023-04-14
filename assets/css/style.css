@@ -273,3 +273,8 @@ color: #fefefe;
 }
 
 }
+
+.navbar h1:hover {
+cursor: pointer;
+color: #00303a;
+}
